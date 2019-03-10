@@ -4140,6 +4140,78 @@ K Murata isolated isolation dc-dc converter transformer
 F http://assets.tracopower.com/TMR1SM/documents/tmr1sm-datasheet.pdf
 $ENDCMP
 #
+$CMP TMR_2-0510E
+D 500mA Regulated 2W DC/DC converter with 1.0kV isolation, 4.5V-9V input, 3.3V fixed Output Voltage, THT
+K Traco isolated isolation DC-DC converter transformer
+F https://www.tracopower.com/products/tmr2e.pdf
+$ENDCMP
+#
+$CMP TMR_2-0511E
+D 400mA Regulated 2W DC/DC converter with 1.0kV isolation, 4.5V-9V input, 5V fixed Output Voltage, THT
+K Traco isolated isolation DC-DC converter transformer
+F https://www.tracopower.com/products/tmr2e.pdf
+$ENDCMP
+#
+$CMP TMR_2-0512E
+D 167mA Regulated 2W DC/DC converter with 1.0kV isolation, 4.5V-9V input, 12V fixed Output Voltage, THT
+K Traco isolated isolation DC-DC converter transformer
+F https://www.tracopower.com/products/tmr2e.pdf
+$ENDCMP
+#
+$CMP TMR_2-1210E
+D 500mA Regulated 2W DC/DC converter with 1.0kV isolation, 9-18V input, 3.3V fixed Output Voltage, THT
+K Traco isolated isolation DC-DC converter transformer
+F https://www.tracopower.com/products/tmr2e.pdf
+$ENDCMP
+#
+$CMP TMR_2-1211E
+D 400mA Regulated 2W DC/DC converter with 1.0kV isolation, 9-18V input, 5V fixed Output Voltage, THT
+K Traco isolated isolation DC-DC converter transformer
+F https://www.tracopower.com/products/tmr2e.pdf
+$ENDCMP
+#
+$CMP TMR_2-1212E
+D 167mA Regulated 2W DC/DC converter with 1.0kV isolation, 9-18V input, 12V fixed Output Voltage, THT
+K Traco isolated isolation DC-DC converter transformer
+F https://www.tracopower.com/products/tmr2e.pdf
+$ENDCMP
+#
+$CMP TMR_2-2410E
+D 500mA Regulated 2W DC/DC converter with 1.0kV isolation, 18V-36V input, 3.3V fixed Output Voltage, THT
+K Traco isolated isolation DC-DC converter transformer
+F https://www.tracopower.com/products/tmr2e.pdf
+$ENDCMP
+#
+$CMP TMR_2-2411E
+D 400mA Regulated 2W DC/DC converter with 1.0kV isolation, 18V-36V input, 5V fixed Output Voltage, THT
+K Traco isolated isolation DC-DC converter transformer
+F https://www.tracopower.com/products/tmr2e.pdf
+$ENDCMP
+#
+$CMP TMR_2-2412E
+D 167mA Regulated 2W DC/DC converter with 1.0kV isolation, 18V-36V input, 12V fixed Output Voltage, THT
+K Traco isolated isolation DC-DC converter transformer
+F https://www.tracopower.com/products/tmr2e.pdf
+$ENDCMP
+#
+$CMP TMR_2-4810E
+D 500mA Regulated 2W DC/DC converter with 1.0kV isolation, 36V-75V input, 3.3V fixed Output Voltage, THT
+K Traco isolated isolation DC-DC converter transformer
+F https://www.tracopower.com/products/tmr2e.pdf
+$ENDCMP
+#
+$CMP TMR_2-4811E
+D 400mA Regulated 2W DC/DC converter with 1.0kV isolation, 36V-75V input, 5V fixed Output Voltage, THT
+K Traco isolated isolation DC-DC converter transformer
+F https://www.tracopower.com/products/tmr2e.pdf
+$ENDCMP
+#
+$CMP TMR_2-4812E
+D 167mA Regulated 2W DC/DC converter with 1.0kV isolation, 36V-75V input, 12V fixed Output Voltage, THT
+K Traco isolated isolation DC-DC converter transformer
+F https://www.tracopower.com/products/tmr2e.pdf
+$ENDCMP
+#
 $CMP TNY263G
 D TinySwitch-II Family, 4.7W Output Power, SMD-8B
 K Enhanced, Energy Efficient, Low Power Off-line Switcher
