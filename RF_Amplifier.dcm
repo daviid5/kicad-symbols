@@ -126,6 +126,12 @@ K RF GAIN BLOCK
 F www.qorvo.com/products/d/da001910
 $ENDCMP
 #
+$CMP TQP3M9035
+D 4.9-5.9GHz, 13dB Low-Noise Amplifier, QFN-6
+K LNA low noise amplifier RF
+F http://www.skyworksinc.com/uploads/documents/SKY65404_31_201512K.pdf
+$ENDCMP
+#
 $CMP TRF37A73
 D 6GHz, 12dB RF Gain Block, WSON-8
 K gain block RF
